@@ -1,0 +1,22 @@
+{
+  "name": "y-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "readline-sync": "^1.4.9",
+    "sha.js": "^2.4.11",
+    "websocket": "^1.0.28"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
